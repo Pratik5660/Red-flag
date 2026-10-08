@@ -1,0 +1,6 @@
+{
+  "name": "RedFlag Terminal",
+  "description": "Forensic SEC EDGAR accounting anomaly screening terminal with 30 automated flags, FY22–FY26 trend reconciliation, and live market data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
